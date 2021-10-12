@@ -26,7 +26,7 @@ numba==0.30.1
 numexpr==2.6.1
 numpy==1.11.3
 numpydoc==0.6.0
-opencv-python==3.3.0.10
+opencv-python==3.4.7.28
 pandas==0.19.2
 partd==0.3.7
 pathlib2==2.2.0
